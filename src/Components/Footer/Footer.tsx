@@ -19,13 +19,13 @@ export const Footer: FC = () => {
           </p>
         </div>
 
-        <div className="footer-top-right">
+        {/* <div className="footer-top-right">
           <div className="footer-email-input">
             <img src={user_icon} alt="User icon" />
             <input type="email" placeholder="Enter your email" />
           </div>
           <div className="footer-subscrib">Subscribe</div>
-        </div>
+        </div> */}
       </div>
 
       <hr />
