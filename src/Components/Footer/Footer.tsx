@@ -1,7 +1,6 @@
 import { FC } from "react";
 import "./Footer.css";
 
-import user_icon from "../../assets/user_icon.svg";
 import theam_pattern from "../../assets/theme_pattern.svg";
 
 export const Footer: FC = () => {
