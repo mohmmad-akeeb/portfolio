@@ -7,7 +7,7 @@ export const Hero = () => {
     <div id="home" className="hero">
       <img src={profile_img} alt="Profile" />
       <h1>
-        <span>I'm Mohammad Akeeb,</span> Data Scientist
+        <span>I'm Mohmmad Akeeb,</span> Data Scientist
       </h1>
       <p>
         I am a Computer Science Engineering student from Kashmir, India with 2
