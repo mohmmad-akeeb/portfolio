@@ -9,6 +9,7 @@ export const Portfolio = () => {
         <div className='mywork-title'>
             <h1>My latest work</h1>
             <img src={theam_pattern} alt="" />
+            
         </div>
         <div className="mywork-container">
             {mywork_data.map((work,index)=>{
